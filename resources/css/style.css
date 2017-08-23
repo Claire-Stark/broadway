@@ -44,15 +44,19 @@ ul {
 
 .footer li {
   display: inline;
-  text-align: left;
+  font-size: 14px;
+  color: white;
 }
 
 .footer {
   background-color: dimgray;
-  color: white;
-  font-size: 11px;
-}
+  }
 
+.footer p {
+  color:white;
+  font-size: 11px;
+  text-align: left;
+}
 a {
   color: white;
 }
