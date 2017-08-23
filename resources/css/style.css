@@ -1,5 +1,4 @@
 * {
-  text-align: center;
   font-family: Helvetica;
 }
 
@@ -11,24 +10,29 @@
 #top li {
   padding-top: 5px;
   padding-bottom: 5px;
+  text-align: center;
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
+  text-align: center;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 
 h3 {
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
   font-size: 14px;
+  text-align: center;
 }
 
 .new-york {
@@ -36,6 +40,7 @@ p {
   font-size: 23px;
   font-weight: bold;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  text-align: center;
 }
 
 ul {
@@ -66,4 +71,5 @@ a {
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 14px;
+  text-align: center;
 }
